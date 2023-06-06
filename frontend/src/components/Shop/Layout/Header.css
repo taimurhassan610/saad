@@ -1,0 +1,17 @@
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .logo-text {
+    font-size: 40px;
+    font-weight: 700;
+    color: orange
+  }
+  
+  .logo-text span {
+    font-weight: 600;
+    color: black;
+  }
